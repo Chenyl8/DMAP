@@ -18,7 +18,7 @@ This is the code for the paper: "DMAP: Decoupling-driven Multi-level Attribute P
 2. Comp:  
     The source code and pre-trained parameters of the PS-OCM.  
     `python train.py --batch_size 16 --epoch_num 100 --imgpath (IQON3000 data path)`  
-   The model training parameters "model.pt" are saved in BaiduNetwork disk. Please download the "result" folder from "https://pan.baidu.com/s/1Bw_4iUnZlMP0mbMGW7dKwg" (Extraction code：wu6r) and put it in the "Comp" folder.  
+   The model training parameters "model.pt" are saved in Baidu Netdisk. Please download the "Comp/result/model.pt" file from "https://pan.baidu.com/s/1Bw_4iUnZlMP0mbMGW7dKwg" (Extraction code：wu6r) and put it in the "Comp/result" folder.  
 
 3. FITB:  
     The test code for the FITB task.  
