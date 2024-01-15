@@ -4,7 +4,7 @@ This is the code for the paper: "DMAP: Decoupling-driven Multi-level Attribute P
 
 ## Overview Framework
 
-![image-20240115160920333](./image-20240115160920333.png)
+![image-20240115160920333](./framework.png)
 
 ## Project introduction
 
